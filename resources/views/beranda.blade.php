@@ -30,10 +30,7 @@
           <div class="showcase-content">
             <h2>The Hub of Technology</h2>
             <p class="lead">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique delectus ut velit
-              ducimus quaerat quisquam, ex, suscipit deleniti illum consequatur omnis deserunt,
-              placeat facere quasi dolores cupiditate non error necessitatibus! Lorem ipsum dolor,
-              sit amet consectetur adipisicing elit.
+            Temukan dan nikmati musik kesayangan Anda dengan lebih mudah dan praktis di website musik kami! Dengan fitur pencarian canggih, rekomendasi lagu, dan daftar putar, kami menyediakan pengalaman mendengarkan musik yang lengkap dan interaktif. Tidak hanya itu, kami juga menyediakan fitur sosial yang memungkinkan Anda terhubung dengan pengguna lain dan mengikuti artis favorit Anda. Bergabunglah dengan komunitas pengguna musik kami sekarang dan nikmati musik secara online dengan kualitas audio yang jernih!
             </p>
             <a href="#" class="btn">Read More</a>
           </div>
